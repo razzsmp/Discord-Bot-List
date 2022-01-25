@@ -1,5 +1,5 @@
 {
-    "mongo_url": "",
+    "mongo_url": "mongodb+srv://a:a@cluster0.j1vyu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "server": {
         "id": "",
         "invite": "",
